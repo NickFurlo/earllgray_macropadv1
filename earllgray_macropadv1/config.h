@@ -7,7 +7,7 @@
 #define PRODUCT_ID      0x2019
 #define DEVICE_VER		0x0001
 #define MANUFACTURER    Nick Furlo
-#define PRODUCT         earllgray_macropadv1
+#define PRODUCT         earllgray-macropadv1
 
 /* key matrix size */
 #define MATRIX_ROWS 6
